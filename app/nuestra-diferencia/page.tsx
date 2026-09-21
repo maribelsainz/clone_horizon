@@ -6,7 +6,7 @@ import DifferenceAccordion from "@/components/DifferenceAccordion";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Nuestra diferencia - Horizon Propiedades",
+  title: "Nuestra diferencia - Horizon Capital",
   description:
     "Trabajamos con los mejores, te acompañamos y ofrecemos un servicio independiente.",
 };

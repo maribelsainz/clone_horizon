@@ -6,7 +6,7 @@ import ContactForm from "@/components/ContactForm";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Contacto - Horizon Propiedades",
+  title: "Contacto - Horizon Capital",
   description:
     "Contáctanos para comenzar a buscar las mejores opciones para tu bienestar financiero.",
 };

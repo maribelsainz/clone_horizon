@@ -13,7 +13,7 @@ import CtaBanner from "@/components/CtaBanner";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Nuestros servicios - Horizon Propiedades",
+  title: "Nuestros servicios - Horizon Capital",
   description:
     "Solución integral en finanzas, ahorro e inversiones. Horizon Capital.",
 };

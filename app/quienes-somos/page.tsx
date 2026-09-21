@@ -5,7 +5,7 @@ import PageHero from "@/components/PageHero";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Quienes somos - Horizon Propiedades",
+  title: "Quienes somos - Horizon Capital",
   description:
     "Somos el family office de nuestros clientes. Servicio independiente y transparente.",
 };

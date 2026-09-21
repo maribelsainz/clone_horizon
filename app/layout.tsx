@@ -17,7 +17,7 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Inicio - Horizon Propiedades",
+  title: "Inicio - Horizon Capital",
   description:
     "Asesoría personalizada e independiente en la planificación de sus finanzas. Horizon Capital.",
 };
